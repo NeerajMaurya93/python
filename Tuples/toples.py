@@ -1,0 +1,10 @@
+#immutable
+tup=(2,3,4,5,6,7,1,1)
+print(type(tup))
+print(tup)
+print(tup[0])
+print(tup[3])
+print(tup[2])
+print (tup[2:6])
+print(tup.index(3))
+print(tup.count(1))
