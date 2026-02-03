@@ -79,7 +79,7 @@ python-main/
 ## ▶️ How to Use
 
 1️⃣ Clone the Repository  
-git clone https://github.com/your-username/python-learning-repo.git  
+git clone https://github.com/NeerajMaurya93/python 
 
 2️⃣ Move to Project Folder  
 cd python-learning-repo  
